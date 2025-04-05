@@ -1,4 +1,4 @@
-#Contador Simples em React
+# Contador Simples em React
 
 Este projeto é uma aplicação simples de contador construída utilizando React. Ele demonstra conceitos fundamentais como:
 
@@ -8,7 +8,7 @@ Este projeto é uma aplicação simples de contador construída utilizando React
 
 - Eventos: Manipulação de interações do usuário.
 
-###Funcionalidades
+### Funcionalidades
 
 - Incrementar o contador.
 
