@@ -17,3 +17,5 @@ Este projeto é uma aplicação simples de contador construída utilizando React
 - Redefinir o contador ao valor inicial.
 
 Ideal para quem está começando com React ou deseja revisitar os princípios básicos da biblioteca.
+
+### Status: Concluído
